@@ -1,6 +1,2 @@
-hi this is vamshi punati 
+Hello From feature branch
 
-i'm starting my carrer as a Devops Engineer in UK
-
-
-updating with a new line 
