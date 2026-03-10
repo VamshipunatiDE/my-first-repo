@@ -1,8 +1,8 @@
-Hello from main branch
+HEAD
+Hello from both  branches
 
 hi this is vamshi punati 
+=======
 
-i'm starting my carrer as a Devops Engineer in UK
+ feature/edit-readme
 
-
-updating with a new line 
